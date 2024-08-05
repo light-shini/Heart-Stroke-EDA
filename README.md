@@ -1,10 +1,4 @@
-# Heart-Stroke-EDA
-
 # Healthcare Dataset Stroke Analysis
-
-## Overview
-
-This project analyzes a healthcare dataset to identify potential indicators of stroke occurrence. The dataset includes various attributes such as age, gender, medical history, and lifestyle factors. The analysis aims to explore correlations between these factors and the likelihood of stroke.
 
 ## Dataset Description
 
